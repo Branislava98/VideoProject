@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Pipeline](Pipline.png)
+![Pipeline](Pipline.jpeg)
 
 Disaster detection enhanced by artificial intelligence enables autonomous environmental monitoring and early warnings, reducing the impact of catastrophes and saving lives. While classic systems can differentiate between disaster types, they often lack **reasoning**, resulting in misinterpretations, false positives, and reduced trust in alerts.
 
