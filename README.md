@@ -42,7 +42,7 @@ Download links:
 * [DisasterEye_V2.0](https://drive.google.com/file/d/1RlhlaDadr_4AcLW5xOAg0-r43n79btYL/view?usp=sharing)
 
 
-## Run
+## Run -- FULL CODE WILL BE AVAILABLE AFRET ACCEPTANCE --
 
 ### Step 1: Frame Extraction and Description
 ```
